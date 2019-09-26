@@ -2,6 +2,9 @@
 Simple script for creating animated hexagon background.
 Tested in Google Chrome and Mozilla Firefox only.
 
+## Demo
+[Codepen](https://codepen.io/konrad-molitor/pen/KKPYzop)
+
 ## Installation
 
 1. Download and place hexit.js file in desired location
